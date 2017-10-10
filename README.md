@@ -1,5 +1,6 @@
 # preact-simple
-preact + preact-router简单demo
+preact + preact-router + webpack 简单demo
+可基于此demo进行快速开发preact项目
 
 本地开发
 ```bash
